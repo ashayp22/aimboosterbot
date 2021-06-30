@@ -10,7 +10,7 @@ A Python autoclicking bot that will beat aimbooster. [Watch YouTube video with a
   - pynput
   - pyautogui
 
-  With [pip](https://pip.pypa.io/en/stable/installing/), it can be done with the following commands (run in Command Prompt or Terminal). 
+  With [pip](https://pip.pypa.io/en/stable/installing/), it can be done with the commands below (run in Command Prompt or Terminal). 
 ```
 pip install PyAutoGUI
 pip install pynput
