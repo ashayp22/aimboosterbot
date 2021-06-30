@@ -15,6 +15,7 @@ pip install PyAutoGUI
 pip install pynput
 ```
 Or, if you are using [PyCharm](https://www.jetbrains.com/pycharm/), you can use this [reference](https://www.jetbrains.com/help/pycharm/installing-uninstalling-and-upgrading-packages.html)
+
 3. Run the python script.
 4. Visit the [Aim Booster website](http://www.aimbooster.com/)
 5. Start a new game and then press **s** (start/stop autoclicking bot). You can also press **e** to stop running the script.
