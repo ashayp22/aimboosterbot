@@ -1,5 +1,5 @@
-# Aimboosterbot
-A python autoclicking bot that will beat aimbooster. [Watch YouTube video with a live demo!](https://www.youtube.com/watch?v=5QyBe5innm0)
+# aimboosterbot
+A Python autoclicking bot that will beat aimbooster. [Watch YouTube video with a live demo!](https://www.youtube.com/watch?v=5QyBe5innm0)
 
 ## Setup
 
